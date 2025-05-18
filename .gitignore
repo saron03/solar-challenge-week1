@@ -1,0 +1,10 @@
+ 
+# Ignore data and CSV files
+data/
+*.csv
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
