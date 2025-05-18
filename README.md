@@ -3,6 +3,7 @@
 
 ## Project Summary
 
+<<<<<<< HEAD
 This project supports **MoonLight Energy Solutions** in identifying promising locations for solar energy investments across Benin, Sierra Leone, and Togo. By analyzing environmental and solar sensor data, the goal is to provide data-driven insights to guide sustainable and efficient solar panel deployment.
 
 ---
