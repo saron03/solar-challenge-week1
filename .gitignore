@@ -8,3 +8,5 @@ data/
 
 # Virtual environment
 venv/
+.venv/
+.vscode/
